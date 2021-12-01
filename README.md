@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Money Transfer баг-репорт](https://docs.google.com/spreadsheets/d/1SlWsRALafWObXl6FzG8TZ4vX1J5zoJQrbYEWPGIm8zc/edit#gid=428297233)
+[Отрицательный баланс  при  пополнении текущего положительного баланса счета](https://github.com/Markvitim/Money-Transfer/issues/1)
 
 
 В процессе тестирования использовались следующие артефакты:
